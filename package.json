@@ -1,18 +1,18 @@
 {
   "name": "neo-hit-counter",
-  "description": "Description goes here.",
+  "description": "pagehit counter for neocities or anyone else",
   "keywords": [
-    "appium"
+    "neocities, pagehit"
   ],
-  "version": "0.0.0",
-  "author": "appium",
+  "version": "1.0.0",
+  "author": "jonahss",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/neo-hit-counter.git"
+    "url": "https://github.com/jonahss/neo-hit-counter.git"
   },
   "bugs": {
-    "url": "https://github.com/appium/neo-hit-counter/issues"
+    "url": "https://github.com/jonahss/neo-hit-counter/issues"
   },
   "engines": [
     "node"
