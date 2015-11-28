@@ -1,7 +1,7 @@
 import {default as server} from './lib/server';
 
-const PORT = 8080;
+let port = process.argv[2] || 8080;
 
-server(PORT);
+server(port);
 
 export {server};
